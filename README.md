@@ -1,6 +1,6 @@
 # Mapping_Earthquakes_Challenge
 
-##Project:
+## Project:
 
 1.  add tectonic plate data
 2.  add major earthquake data
